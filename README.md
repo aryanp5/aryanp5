@@ -14,8 +14,8 @@ MSc Mathematical Finance graduate (University of Exeter) interested in **quantit
 | Project | What it does | Key result |
 |---|---|---|
 | [**Complexity Measures for Stock Time Series**](https://github.com/aryanp5/complexity-measures-stocks) | MSc dissertation: 5 entropy measures × 6 detrending methods on 300 US stocks (2000–2020), tested against CAGR, Sharpe and relative performance using mutual information | The choice of detrending method largely determines whether complexity appears related to performance |
-| **Pairs Trading Strategy** *(coming soon)* | Cointegration-based statistical arbitrage with out-of-sample testing and transaction costs | *add one line* |
-| **Reinforcement Learning Trading Agent** *(coming soon)* | RL agent compared against a buy-and-hold benchmark | *add one line* |
+| **Pairs Trading Strategy** *(coming soon)* | Cointegration-based statistical arbitrage with out-of-sample testing and transaction costs | *(coming soon)* |
+| **Reinforcement Learning Trading Agent** *(coming soon)* | RL agent compared against a buy-and-hold benchmark | *(coming soon)* |
 
 ### 🎯 Currently
 - Building an option pricing library (Black-Scholes, binomial trees, Monte Carlo, Greeks)
